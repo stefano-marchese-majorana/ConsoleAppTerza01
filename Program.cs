@@ -10,17 +10,18 @@
 //
 //  3.  commit e push con messaggio di descrizione della commit/push
 //
-//  3.  nei punti indicati con TODO inserire i commenti
-//      - i commenti devono essere inseriti con il //
+//  4.  nei punti indicati con TODO inserire i commenti
+//      - i commenti devono essere inseriti con il // (non con /* */)
+//      - scritti in minuscolo
 //      - devono spiegare il significato delle istruzioni che si trovano subito dopo
 //      - devono essere correttamente allineati
 //      - devono sempre avere un carattere spazio dopo il //
 //      - il commento non deve mai andare oltre la colonna 100
 //      - se lungo scrivere su piu' righe
 //
-//  4. commit e push con mesaggio di descrizione della commit/push
+//  5. commit e push con mesaggio di descrizione della commit/push
 //
-//  5. fine esercitazione
+//  6. fine esercitazione
 
 
 using System;
