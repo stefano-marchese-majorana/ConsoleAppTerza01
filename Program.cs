@@ -19,7 +19,7 @@
 //      - il commento non deve mai andare oltre la colonna 100
 //      - se lungo scrivere su piu' righe
 //
-//  5. commit e push con mesaggio di descrizione della commit/push
+//  5. commit e push con messaggio di descrizione della commit/push
 //
 //  6. fine esercitazione
 
